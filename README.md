@@ -1,6 +1,6 @@
-# **DG\_LAB Fabric Mod**
+# **DG\_LAB Forge Mod**
 
-_This mod is developed for Minecraft's Fabric loader, enabling connectivity between the game and DG\_LAB devices._
+_This mod is developed for Minecraft's Forge loader, enabling connectivity between the game and DG\_LAB devices._
 
 ▌Core Features
 
@@ -16,14 +16,16 @@ _This mod is developed for Minecraft's Fabric loader, enabling connectivity betw
 1.  Ensure your DG\_LAB device is running version 3.x before use
 2.  High-intensity stimulation parameters should be configured under professional guidance
 
-*   Supports 1.21 / 1.20.1 / 1.19.2 / 1.18.2
+*   Only Support 1.18.2
     
-*   Planned support for 1.16.5
+*   No Planned support
     
 
 \=======================================================================  
-**DG\_LAB Fabric Mod 模组**  
-_本模组为《我的世界》Fabric端开发，可实现游戏与DG\_LAB终端的连接_
+**DG\_LAB FORGE!!! Mod 模组**  
+_本模组为《我的世界》Forge端开发，可实现游戏与DG\_LAB终端的连接_
+
+_该模组由[Fabric1.18.2版本](https://github.com/CaiJi-ikun/DG_LAB/tree/1.18.2)移植重构_
 
 ▌核心功能
 
@@ -42,9 +44,9 @@ _本模组为《我的世界》Fabric端开发，可实现游戏与DG\_LAB终端
 1.  使用前请确认DG\_LAB终端为3.x版本
 2.  建议在专业指导下配置高强度刺激参数
 
-*   已支持 1.21 / 1.20.1 / 1.19.2 / 1.18.2
+*   已支持 1.18.2
     
-*   计划中 1.16.5
+*   无计划中
     
 
 \=======================================================================
