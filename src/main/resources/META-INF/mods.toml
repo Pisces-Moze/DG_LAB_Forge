@@ -6,7 +6,7 @@ license="All-Rights-Reserved"
 modId="dg_lab"
 version="1.1.3-forge-1.18.2"
 displayName="DG_LAB"
-authors="kbpf & Xiao_Wu"
+authors="kbpf & Xiao_Wu & Pisces_Moze"
 description="与DG_LAB设备链接"
 
 # Forge dependency
